@@ -52,6 +52,7 @@ adjective <- c(
   "first-rate",
   "flawless",
   "funkadelic",
+  "funky",
   "geometric",
   "glorious",
   "gnarly",
